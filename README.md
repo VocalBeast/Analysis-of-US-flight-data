@@ -1,7 +1,7 @@
 # Analysis-of-US-flight-data
 Context - The 2009 ASA Statistical Computing and Graphics Data Expo consisted of flight arrival and departure details for all commercial flights on major carriers within the USA from October 1987 to April 2008.
 
-In this analysis, I have taken flight arrival and departure details from the years of 2006 and 2007 and have conducted analysis in python to do the following:
+In this analysis, I have taken flight arrival and departure details from the years of 2006 and 2007, and have conducted analysis in python to do the following:
 
 (a) Evalaute what are the best times and days of the week to minimise delays each year.
 
