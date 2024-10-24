@@ -3,7 +3,7 @@ Context - The 2009 ASA Statistical Computing and Graphics Data Expo consisted of
 
 In this analysis, I have taken flight arrival and departure details from the years of 2006 and 2007, and have conducted analysis in python to do the following:
 
-(a) Evalaute what are the best times and days of the week to minimise delays each year.
+(a) Evaluate what are the best times and days of the week to minimise delays each year.
 
 (b) Evaluate whether older planes suffer more delays on a year-to-year basis.
 
